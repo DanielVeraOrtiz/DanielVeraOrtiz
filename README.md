@@ -1,12 +1,12 @@
-<h1 align="center">Hola soy Daniel Vera 👋 </h1>
+<h1 align="center">Hola, soy Daniel Vera 👋 </h1>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/di-vera/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin link"/></a>
 <a href = "mailto:daniel.vera.or@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mi correo"  /></a>
   <a href="https://personal-portfolio-vera-daniel.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Portfolio-View%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="link a mi portafolio"/>
 </a>
-  </p>
+</p>
 <br>
 <h2>Sobre mi 😃</h2>
 
@@ -46,10 +46,6 @@ rapidez de aprendizaje, atención al detalle y foco en entregar soluciones compl
 </p>
 </div>
 <br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
 
 <h2>GitHub :octocat:</h2>
 <p align="center">
