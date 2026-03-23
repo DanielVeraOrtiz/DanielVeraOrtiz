@@ -1,4 +1,4 @@
-<h1 align="center">Hola soy Daniel Vera 👋 </h1> 
+<h1 align="center">Hola soy Daniel Vera 👋 </h1>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/di-vera/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin link"/></a>
@@ -21,6 +21,7 @@ rapidez de aprendizaje, atención al detalle y foco en entregar soluciones compl
 💻 Por ahora en busca de mi primer trabajo.
 
 📫 Contacto: **daniel.vera.or@gmail.com**
+
 <!--Intro end-->
   </p>
 <br>
@@ -36,14 +37,19 @@ rapidez de aprendizaje, atención al detalle y foco en entregar soluciones compl
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
-
+<p align="left">
+    Todos mis proyectos están en la página de mi portafolio en el siguiente link: <a href="https://personal-portfolio-vera-daniel.vercel.app/#projects">
+    Portafolio Daniel Vera Web
+  </a>
+  <br>
+    <img src="assets/projects.png" />
+</p>
 </div>
 <br>
 <br><br>
 <br>
 <br><br><br>
 <br><br>
-
 
 <h2>GitHub :octocat:</h2>
 <p align="center">
