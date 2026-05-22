@@ -11,12 +11,7 @@
 <h2>Sobre mi 😃</h2>
 
 <p align="left">
-🎓 Ingeniero Civil Industrial con diploma en Tecnologías de la Información de la Pontificia Universidad Católica de
-Chile, enfocado en el desarrollo de software Fullstack. He desarrollado aplicaciones web utilizando React, Next.js,
-Node.js y PostgreSQL, incorporando testing (Jest, Supertest, Playwright) y buenas prácticas para asegurar
-calidad y mantenibilidad del código. Me interesa especialmente la construcción de interfaces bien diseñadas y
-experiencias de usuario sólidas, complementadas con lógica de negocio y arquitectura backend. Destaco por mi
-rapidez de aprendizaje, atención al detalle y foco en entregar soluciones completas.
+🎓 Ingeniero Civil de Industrias con Diploma en Tecnologías de Información de la Pontificia Universidad Católica de Chile, enfocado en el desarrollo de software full stack. He desarrollado aplicaciones web utilizando React, Next.js, Node.js y PostgreSQL, participando tanto en frontend como backend e incorporando testing automatizado con Jest, Supertest y Playwright para asegurar calidad y mantenibilidad del código. También he trabajado con Docker, Docker Compose y pipelines de CI/CD utilizando GitHub Actions, automatizando procesos de testing, build y deployment de aplicaciones. Me interesa desarrollar aplicaciones bien estructuradas y mantenibles, combinando experiencia de usuario, lógica de negocio y arquitectura backend. Destaco por mi capacidad de aprendizaje, atención al detalle y enfoque en construir soluciones completas.
 
 💻 Por ahora en busca de mi primer trabajo.
 
@@ -30,7 +25,7 @@ rapidez de aprendizaje, atención al detalle y foco en entregar soluciones compl
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,sequelize,postgres,python,fastapi,ruby,git,github,vscode,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,sequelize,docker,jest,py,fastapi,ruby,git,github,vscode,postman&perline=10" />
   </a>
 </p>
 <br>
