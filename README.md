@@ -13,8 +13,6 @@
 <p align="left">
 🎓 Ingeniero Civil de Industrias con Diploma en Tecnologías de Información de la Pontificia Universidad Católica de Chile, enfocado en el desarrollo de software full stack. He desarrollado aplicaciones web utilizando React, Next.js, Node.js y PostgreSQL, participando tanto en frontend como backend e incorporando testing automatizado con Jest, Supertest y Playwright para asegurar calidad y mantenibilidad del código. También he trabajado con Docker, Docker Compose y pipelines de CI/CD utilizando GitHub Actions, automatizando procesos de testing, build y deployment de aplicaciones. Me interesa desarrollar aplicaciones bien estructuradas y mantenibles, combinando experiencia de usuario, lógica de negocio y arquitectura backend. Destaco por mi capacidad de aprendizaje, atención al detalle y enfoque en construir soluciones completas.
 
-💻 Por ahora en busca de mi primer trabajo.
-
 📫 Contacto: **daniel.vera.or@gmail.com**
 
 <!--Intro end-->
